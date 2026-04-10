@@ -3,4 +3,7 @@
 __pycache__/
 *.pyc
 *.pyo
-backtests/".py.env" 
+*.py.env
+.ipynb_checkpoints/
+*.csv
+strip_outputs.py
